@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kith",
+  "description": "A safety-first social connection space helping students and young adults build genuine human conversations with AI coaching, mindful time limits, and verified anonymous peer chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
